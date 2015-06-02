@@ -128,14 +128,9 @@ images also can be easily located in a Google search.
 
 **Table of Contents:** You can find the course's units at the links below.
 
-https://legacy.saylor.org/arth110/Unit01/
-
-https://legacy.saylor.org/arth110/Unit02/
-
-https://legacy.saylor.org/arth110/Unit03/
-
-https://legacy.saylor.org/arth110/Unit04/
-
-https://legacy.saylor.org/arth110/Unit05/
-
-https://legacy.saylor.org/arth110/Unit06/
+- [Unit 1](https://legacy.saylor.org/arth110/Unit01/)
+- [Unit 2](https://legacy.saylor.org/arth110/Unit02/)
+- [Unit 3](https://legacy.saylor.org/arth110/Unit03/)
+- [Unit 4](https://legacy.saylor.org/arth110/Unit04/)
+- [Unit 5](https://legacy.saylor.org/arth110/Unit05/)
+- [Unit 6](https://legacy.saylor.org/arth110/Unit06/)
