@@ -125,3 +125,17 @@ that you take time to carefully examine any and all images presented in
 this course.  Pay careful attention to images presented in video
 lectures, and pause the videos or go back as necessary to review.  Most
 images also can be easily located in a Google search.
+
+**Table of Contents:** You can find the course's units at the links below.
+
+https://legacy.saylor.org/arth110/Unit01/
+
+https://legacy.saylor.org/arth110/Unit02/
+
+https://legacy.saylor.org/arth110/Unit03/
+
+https://legacy.saylor.org/arth110/Unit04/
+
+https://legacy.saylor.org/arth110/Unit05/
+
+https://legacy.saylor.org/arth110/Unit06/
