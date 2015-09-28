@@ -141,3 +141,4 @@ images also can be easily located in a Google search.
 - [Unit 4](https://legacy.saylor.org/arth110/Unit04/)
 - [Unit 5](https://legacy.saylor.org/arth110/Unit05/)
 - [Unit 6](https://legacy.saylor.org/arth110/Unit06/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/ARTH/ARTH110/ARTH110-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/ARTH/ARTH110/ARTH110-FinalExam-Answers.html)
