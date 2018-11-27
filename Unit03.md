@@ -111,10 +111,10 @@
         “Sculpture,” and “Tombs”**
 
         Link: Boundless: [“Architecture and the Pyramids of
-        Giza”](http://www.saylor.org/site/wp-content/uploads/2013/03/ARTH110-3.2-ArchitectureandthePyramidsofGiza.pdf) (PDF),
-        [“Sculpture”](http://www.saylor.org/site/wp-content/uploads/2013/03/ARTH110-3.2-Sculpture.pdf)
+        Giza”](https://resources.saylor.org/archived/wp-content/uploads/2013/03/ARTH110-3.2-ArchitectureandthePyramidsofGiza.pdf) (PDF),
+        [“Sculpture”](https://resources.saylor.org/archived/wp-content/uploads/2013/03/ARTH110-3.2-Sculpture.pdf)
         (PDF), and
-        [“Tombs”](http://www.saylor.org/site/wp-content/uploads/2013/03/ARTH110-3.2-Tombs.pdf)
+        [“Tombs”](https://resources.saylor.org/archived/wp-content/uploads/2013/03/ARTH110-3.2-Tombs.pdf)
         (PDF)  
             
          Instructions: Read these articles and examine the associated
@@ -150,13 +150,13 @@
         “Sculptures of Senusret III,” “Stelae,” and “Tombs”**
 
         Link: Boundless: [“Architecture and the Urban
-        Environment”](http://www.saylor.org/site/wp-content/uploads/2013/03/ARTH110-3.3-ArchitectureandtheUrbanEnvironment1.pdf) (PDF),
+        Environment”](https://resources.saylor.org/archived/wp-content/uploads/2013/03/ARTH110-3.3-ArchitectureandtheUrbanEnvironment1.pdf) (PDF),
         [“Sculptures of Senusret
-        III”](http://www.saylor.org/site/wp-content/uploads/2013/03/ARTH110-3.3-SculpturesofSensuretIII.pdf)
+        III”](https://resources.saylor.org/archived/wp-content/uploads/2013/03/ARTH110-3.3-SculpturesofSensuretIII.pdf)
         (PDF),
-        [“Stelae”](http://www.saylor.org/site/wp-content/uploads/2013/03/ARTH110-3.3-Stelae.pdf)
+        [“Stelae”](https://resources.saylor.org/archived/wp-content/uploads/2013/03/ARTH110-3.3-Stelae.pdf)
         (PDF), and
-        [“Tombs”](http://www.saylor.org/site/wp-content/uploads/2013/03/ARTH110-3.3-Tombs.pdf)
+        [“Tombs”](https://resources.saylor.org/archived/wp-content/uploads/2013/03/ARTH110-3.3-Tombs.pdf)
         (PDF)  
            
          Instructions: Read these articles and examine the associated
@@ -190,19 +190,19 @@
 
         Link: Boundless: “The New Kingdom”: [“Architecture of Great
         Temple
-        Complexes”](http://www.saylor.org/site/wp-content/uploads/2013/03/ARTH110-3.4-ArchitectureofGreatTempleComplexes.pdf)
+        Complexes”](https://resources.saylor.org/archived/wp-content/uploads/2013/03/ARTH110-3.4-ArchitectureofGreatTempleComplexes.pdf)
         (PDF),
-        [“Hatshepsut”](http://www.saylor.org/site/wp-content/uploads/2013/03/ARTH110-3.4-Hatshepsut.pdf)
+        [“Hatshepsut”](https://resources.saylor.org/archived/wp-content/uploads/2013/03/ARTH110-3.4-Hatshepsut.pdf)
         (PDF), [“Tomb of
-        Ramose”](http://www.saylor.org/site/wp-content/uploads/2013/03/ARTH110-3.4-TombofRamose.pdf)
+        Ramose”](https://resources.saylor.org/archived/wp-content/uploads/2013/03/ARTH110-3.4-TombofRamose.pdf)
         (PDF), [“Akhenaton and the Amarna
-        Period”](http://www.saylor.org/site/wp-content/uploads/2013/03/ARTH110-3.4-AkhenatonandtheAmarnaPeriod.pdf)
+        Period”](https://resources.saylor.org/archived/wp-content/uploads/2013/03/ARTH110-3.4-AkhenatonandtheAmarnaPeriod.pdf)
         (PDF), [“Tutankhamun and Ramses
-        II”](http://www.saylor.org/site/wp-content/uploads/2013/03/ARTH110-3.4-TutankhamunandRamsesII.pdf)
+        II”](https://resources.saylor.org/archived/wp-content/uploads/2013/03/ARTH110-3.4-TutankhamunandRamsesII.pdf)
         (PDF), [“Book of the
-        Dead”](http://www.saylor.org/site/wp-content/uploads/2013/03/ARTH110-3.4-BookoftheDead.pdf)
+        Dead”](https://resources.saylor.org/archived/wp-content/uploads/2013/03/ARTH110-3.4-BookoftheDead.pdf)
         (PDF), and [“Sculpture and
-        Painting”](http://www.saylor.org/site/wp-content/uploads/2013/03/ARTH110-3.4-SculptureandPainting.pdf)
+        Painting”](https://resources.saylor.org/archived/wp-content/uploads/2013/03/ARTH110-3.4-SculptureandPainting.pdf)
         (PDF)  
            
          Instructions: Read these articles and examine the associated

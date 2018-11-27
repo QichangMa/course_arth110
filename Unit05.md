@@ -82,9 +82,9 @@
 
         Links: SmartHistory: Dr. Allen Farber’s [“Early Christian Art -
         An
-        Introduction”](http://www.saylor.org/site/wp-content/uploads/2013/09/ARTH110-Early-Christian-Art-An-Introduction.pdf)
+        Introduction”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/ARTH110-Early-Christian-Art-An-Introduction.pdf)
         (PDF) and [“Early Christian Art - An Introduction (Part
-        2)”](http://www.saylor.org/site/wp-content/uploads/2013/09/ARTH110-Early-Christian-Art-An-Introduction-Part-21.pdf)
+        2)”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/ARTH110-Early-Christian-Art-An-Introduction-Part-21.pdf)
         (PDF)  
             
          Instructions: Read the entirety of these webpages for an
@@ -121,7 +121,7 @@
 
         Link: SmartHistory: Dr. Allen Farber’s: [“Early Christian Art &
         Architecture After
-        Constantine”](http://www.saylor.org/site/wp-content/uploads/2013/09/ARTH110-Early-Christian-Art-Architecture-After-Constantine.pdf)
+        Constantine”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/ARTH110-Early-Christian-Art-Architecture-After-Constantine.pdf)
         (PDF)  
             
          Instructions: Read this article for an overview of early
@@ -264,7 +264,7 @@
 
         Link: SmartHistory: Victoria Valdes's [“Ottonian Art: St.
         Michael’s Church, Hildesheim
-        (1001-1031)”](http://www.saylor.org/site/wp-content/uploads/2013/09/ARTH110-5.4.3-OttonianArtStMichaelsChurch.pdf)
+        (1001-1031)”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/ARTH110-5.4.3-OttonianArtStMichaelsChurch.pdf)
         (PDF)  
             
          Instructions: Read the entirety of this webpage for an
@@ -400,7 +400,7 @@
         Link: The Saylor Foundation’s [“Museum Visit \#2: The Cloisters
         Museum and Gardens (a Part of The Metropolitan Museum of Art,)
         New York
-        City”](http://www.saylor.org/site/wp-content/uploads/2011/07/ARTH110-Unit5-Museum-Visit-2-FINAL.pdf)
+        City”](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ARTH110-Unit5-Museum-Visit-2-FINAL.pdf)
         (PDF)
 
          

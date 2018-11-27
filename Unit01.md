@@ -123,9 +123,9 @@
         Western Europe”**
 
         Link: Boundless: [“Art of the Ancient Near
-        East”](http://www.saylor.org/site/wp-content/uploads/2013/03/ARTH110-1.2.2-ArtoftheAncientNearEast.pdf) (PDF)
+        East”](https://resources.saylor.org/archived/wp-content/uploads/2013/03/ARTH110-1.2.2-ArtoftheAncientNearEast.pdf) (PDF)
         and [“Art in Western
-        Europe”](http://www.saylor.org/site/wp-content/uploads/2013/03/ARTH110-1.2.2-ArtinWesternEurope.pdf) (PDF)  
+        Europe”](https://resources.saylor.org/archived/wp-content/uploads/2013/03/ARTH110-1.2.2-ArtinWesternEurope.pdf) (PDF)  
            
          Instructions: Read these articles and examine the associated
         images to learn about art during the Neolithic Period.  

@@ -426,7 +426,7 @@
         lectures and lecture notes to remind yourself about these
         images.  Refer to the Saylor Foundation’s [“Guide for Responding
         to Assignment
-        2”](http://www.saylor.org/site/wp-content/uploads/2011/05/ARTH110-Guide-for-Responding-21.pdf) (PDF)
+        2”](https://resources.saylor.org/archived/wp-content/uploads/2011/05/ARTH110-Guide-for-Responding-21.pdf) (PDF)
         for some pointers as you set out to write your answers.  
             
          Terms of Use: Please respect the copyright and terms of use
