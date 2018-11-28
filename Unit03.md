@@ -111,10 +111,10 @@
         “Sculpture,” and “Tombs”**
 
         Link: Boundless: [“Architecture and the Pyramids of
-        Giza”](https://resources.saylor.org/archived/wp-content/uploads/2013/03/ARTH110-3.2-ArchitectureandthePyramidsofGiza.pdf) (PDF),
-        [“Sculpture”](https://resources.saylor.org/archived/wp-content/uploads/2013/03/ARTH110-3.2-Sculpture.pdf)
+        Giza”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/03/ARTH110-3.2-ArchitectureandthePyramidsofGiza.pdf) (PDF),
+        [“Sculpture”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/03/ARTH110-3.2-Sculpture.pdf)
         (PDF), and
-        [“Tombs”](https://resources.saylor.org/archived/wp-content/uploads/2013/03/ARTH110-3.2-Tombs.pdf)
+        [“Tombs”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/03/ARTH110-3.2-Tombs.pdf)
         (PDF)  
             
          Instructions: Read these articles and examine the associated
@@ -150,13 +150,13 @@
         “Sculptures of Senusret III,” “Stelae,” and “Tombs”**
 
         Link: Boundless: [“Architecture and the Urban
-        Environment”](https://resources.saylor.org/archived/wp-content/uploads/2013/03/ARTH110-3.3-ArchitectureandtheUrbanEnvironment1.pdf) (PDF),
+        Environment”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/03/ARTH110-3.3-ArchitectureandtheUrbanEnvironment1.pdf) (PDF),
         [“Sculptures of Senusret
-        III”](https://resources.saylor.org/archived/wp-content/uploads/2013/03/ARTH110-3.3-SculpturesofSensuretIII.pdf)
+        III”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/03/ARTH110-3.3-SculpturesofSensuretIII.pdf)
         (PDF),
-        [“Stelae”](https://resources.saylor.org/archived/wp-content/uploads/2013/03/ARTH110-3.3-Stelae.pdf)
+        [“Stelae”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/03/ARTH110-3.3-Stelae.pdf)
         (PDF), and
-        [“Tombs”](https://resources.saylor.org/archived/wp-content/uploads/2013/03/ARTH110-3.3-Tombs.pdf)
+        [“Tombs”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/03/ARTH110-3.3-Tombs.pdf)
         (PDF)  
            
          Instructions: Read these articles and examine the associated
@@ -190,19 +190,19 @@
 
         Link: Boundless: “The New Kingdom”: [“Architecture of Great
         Temple
-        Complexes”](https://resources.saylor.org/archived/wp-content/uploads/2013/03/ARTH110-3.4-ArchitectureofGreatTempleComplexes.pdf)
+        Complexes”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/03/ARTH110-3.4-ArchitectureofGreatTempleComplexes.pdf)
         (PDF),
-        [“Hatshepsut”](https://resources.saylor.org/archived/wp-content/uploads/2013/03/ARTH110-3.4-Hatshepsut.pdf)
+        [“Hatshepsut”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/03/ARTH110-3.4-Hatshepsut.pdf)
         (PDF), [“Tomb of
-        Ramose”](https://resources.saylor.org/archived/wp-content/uploads/2013/03/ARTH110-3.4-TombofRamose.pdf)
+        Ramose”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/03/ARTH110-3.4-TombofRamose.pdf)
         (PDF), [“Akhenaton and the Amarna
-        Period”](https://resources.saylor.org/archived/wp-content/uploads/2013/03/ARTH110-3.4-AkhenatonandtheAmarnaPeriod.pdf)
+        Period”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/03/ARTH110-3.4-AkhenatonandtheAmarnaPeriod.pdf)
         (PDF), [“Tutankhamun and Ramses
-        II”](https://resources.saylor.org/archived/wp-content/uploads/2013/03/ARTH110-3.4-TutankhamunandRamsesII.pdf)
+        II”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/03/ARTH110-3.4-TutankhamunandRamsesII.pdf)
         (PDF), [“Book of the
-        Dead”](https://resources.saylor.org/archived/wp-content/uploads/2013/03/ARTH110-3.4-BookoftheDead.pdf)
+        Dead”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/03/ARTH110-3.4-BookoftheDead.pdf)
         (PDF), and [“Sculpture and
-        Painting”](https://resources.saylor.org/archived/wp-content/uploads/2013/03/ARTH110-3.4-SculptureandPainting.pdf)
+        Painting”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/03/ARTH110-3.4-SculptureandPainting.pdf)
         (PDF)  
            
          Instructions: Read these articles and examine the associated

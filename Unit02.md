@@ -84,7 +84,7 @@
     -   **Reading: Boundless: “Sumer”**
 
         Links: Boundless:
-        [“Sumer”](https://resources.saylor.org/archived/wp-content/uploads/2013/03/ARTH110-2.1-Sumer.pdf)
+        [“Sumer”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/03/ARTH110-2.1-Sumer.pdf)
         (PDF)  
            
          Instructions: Read this article and examine the image of the
@@ -124,7 +124,7 @@
     -   **Reading: Khan Academy’s *Smart History*: “Sumerian Art”**
 
         Link: Khan Academy’s *Smart History*: [“Sumerian
-        Art”](https://resources.saylor.org/archived/wp-content/uploads/2013/03/ARTH110-2.2-SumerianArt.pdf) (PDF)  
+        Art”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/03/ARTH110-2.2-SumerianArt.pdf) (PDF)  
             
          Instructions: Read this article about Sumerian art.  
             
@@ -215,7 +215,7 @@
     -   **Reading: Boundless: “Neo-Babylonia”**
 
         Links: Boundless:
-        [“Neo-Babylonia”](https://resources.saylor.org/archived/wp-content/uploads/2013/03/ARTH110-2.4-NeoBabylonia.pdf) (PDF)  
+        [“Neo-Babylonia”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/03/ARTH110-2.4-NeoBabylonia.pdf) (PDF)  
            
          Instructions: Read this article and examine the associated
         images to learn about art during the in the Neo-Babylonian
@@ -266,7 +266,7 @@
 
         Link: The Saylor Foundation’s [“Museum Visit \#1: The
         Metropolitan Museum of Art, New York
-        City”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/ARTH110-Unit2-Museum-Visit-1-FINAL.pdf)
+        City”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/10/ARTH110-Unit2-Museum-Visit-1-FINAL.pdf)
         (PDF)  
              
          Instructions: Click on the link above, and follow the
@@ -308,7 +308,7 @@
         both images to assist you in writing the essay, and use what you
         have learned in this unit to aid your observations.  Use the
         Saylor Foundation’s “[Guide to Responding to Assignment
-        1](https://resources.saylor.org/archived/wp-content/uploads/2011/05/ARTH110-Guide-for-Responding-11.pdf)”
+        1](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/05/ARTH110-Guide-for-Responding-11.pdf)”
         (PDF) for some pointers.  
             
          Terms of Use: Please respect the copyright and terms of use
