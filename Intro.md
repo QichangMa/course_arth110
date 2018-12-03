@@ -1,3 +1,12 @@
+---
+layout: default
+title: "ARTH110: Introduction to Western Art History: Pre-historic to High Gothic"
+course_description: "Introductory study of the history of Western art, beginning with the first objects created by prehistoric humans around 20,000 years ago
+and ending with the art and architecture of the High Gothic period in fourteenth-century Europe."
+next: ../Unit01
+previous: ../../../
+bgimage: arth110.jpg
+---
 Course Syllabus for "ARTH110: Introduction to Western Art History: Pre-historic to High Gothic"
 --------------------------------------------------------------
 **Please note: this [legacy course](https://sayloracademy.zendesk.com/hc/en-us/articles/206089967) does not offer a certificate and may contain 

@@ -1,3 +1,12 @@
+---
+layout: default
+title: "ARTH110: Introduction to Western Art History: Pre-historic to High Gothic"
+course_description: "Introductory study of the history of Western art, beginning with the first objects created by prehistoric humans around 20,000 years ago
+and ending with the art and architecture of the High Gothic period in fourteenth-century Europe."
+next: ../Unit02
+previous: ../Intro
+bgimage: arth110.jpg
+---
 -   **Unit 1: Art Before History**  
 
     *This course begins with the very first art created by humans in the
